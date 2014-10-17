@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Jekyll First Post & Try
+title: Commande blog jekyll - CheatSheet
 ---
 
-<h1>Command blog jekyll</h1>
+Préparation du blog jekyll & Mise en place sur Github
 
 <div class="highlight"><pre>
 test
