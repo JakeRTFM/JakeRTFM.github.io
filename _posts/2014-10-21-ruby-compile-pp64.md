@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Command blog jekyll - CheatSheet
+title: Compile Ruby on PP64 (Power 8 Runabove)
 ---
 <div class="highlight"><pre>
 wget http://cache.ruby-lang.org/pub/ruby/2.1/ruby-2.1.3.tar.gz
