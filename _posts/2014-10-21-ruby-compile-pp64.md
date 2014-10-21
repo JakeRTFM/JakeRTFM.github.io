@@ -2,8 +2,13 @@
 layout: post
 title: Compile Ruby on PP64 (Power 8 Runabove)
 ---
+
+	wget http://cache.ruby-lang.org/pub/ruby/2.1/ruby-2.1.3.tar.gz
+
+
 <div class="highlight"><pre>
-wget http://cache.ruby-lang.org/pub/ruby/2.1/ruby-2.1.3.tar.gz
+
+
 
 tar -zxvf ruby-2.1.3.tar.gz
 
